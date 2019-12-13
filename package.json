@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/Luiko/file-metadata-microservice#readme",
   "devDependencies": {
-    "eslint": "^3.17.1",
+    "eslint": "^6.7.2",
     "supertest": "^3.0.0",
     "tape": "^4.6.3"
   },
