@@ -1,0 +1,8 @@
+.handle p {
+  display: inline;
+}
+footer {
+  position: fixed;
+  top: 86%;
+  right: 40%;
+}
