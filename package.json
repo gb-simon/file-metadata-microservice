@@ -8,19 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Luiko/file-metadata-microservice.git"
+    "url": "git+https://github.com/gb-simon/file-metadata-microservice"
   },
   "keywords": [
     "api",
     "FCC",
     "microservice"
   ],
-  "author": "Luiko <luiko.luisgarcia@gmail.com>",
-  "license": "MIT",
+  "author": "Simon",
   "bugs": {
-    "url": "https://github.com/Luiko/file-metadata-microservice/issues"
+    "url": "https://github.com/gb-simon/file-metadata-microservice"
   },
-  "homepage": "https://github.com/Luiko/file-metadata-microservice#readme",
+  "homepage": "https://github.com/gb-simon/file-metadata-microservice",
   "devDependencies": {
     "eslint": "^6.7.2",
     "supertest": "^3.0.0",
